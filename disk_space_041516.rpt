@@ -1,0 +1,26 @@
+Top Ten Disk Space Usage
+for  /var/log /home Directories
+
+The /var/log Directory:
+1:	10204	/var/log/audit
+2:	9124	/var/log
+3:	2108	/var/log/sa
+4:	1044	/var/log/anaconda
+5:	440	/var/log/salt
+6:	216	/var/log/gdm
+7:	12	/var/log/cups
+8:	4	/var/log/tuned
+9:	0	/var/log/sssd
+10:	0	/var/log/speech-dispatcher
+
+The /home Directory:
+1:	15148	/home/liuwj-honliv/.mozilla/firefox/w4iaiyw2.default
+2:	5252	/home/liuwj-honliv
+3:	3448	/home/liuwj-honliv/.cache/tracker
+4:	1796	/home/liuwj-honliv/.cache/mozilla/firefox/w4iaiyw2.default/cache2/entries
+5:	1552	/home/liuwj-honliv/.cache/mozilla/firefox/w4iaiyw2.default/startupCache
+6:	1248	/home/liuwj-honliv/.mozilla/firefox/w4iaiyw2.default/gmp-gmpopenh264/1.5.3
+7:	1036	/home/liuwj-honliv/.cache/thumbnails/large
+8:	436	/home/liuwj-honliv/.cache/gstreamer-1.0
+9:	272	/home/liuwj-honliv/.local/share/tracker/data
+10:	140	/home/liuwj-honliv/.cache/mozilla/firefox/w4iaiyw2.default/thumbnails
