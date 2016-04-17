@@ -14,7 +14,7 @@ FILE=archive$DATE.tar.gz
 # Set Configuration and Destination file
 #
 CONFIG_FILE=/home/liuwj-honliv/document/Files_To_Backup
-DESTINATION=/home/liuwj-honliv/archive/$FILE
+DESTINATION=/home/liuwj-honliv/$FILE
 #
 ################## Main Script ########################
 #
